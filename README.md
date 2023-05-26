@@ -48,3 +48,6 @@ I love the entire process of developing creative websites. I love the challenge 
 
 </br>
 
+[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=lordferro)](https://github.com/lordferro)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lordferro&layout=compact)](https://github.com/lordferro)
