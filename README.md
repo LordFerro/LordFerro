@@ -1,6 +1,6 @@
 
 <h3 align="center">
-Hi there, I'm FedorRomanovschi 👋
+Hi there, I'm Fedor Romanovschi 👋
 </h3>
 
 <h2 align="center">
