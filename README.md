@@ -48,11 +48,11 @@ I love the entire process of developing creative websites. I love the challenge 
 </br>
 ## Here is examples of my code style:
 
-https://lordferro.github.io/web_studio/ - html, scss, css - adaptive layout.
-https://lordferro.github.io/shopforgamers/ - html, css, scss - responsive layout (mobile, tablet, desctop), team project. My role - teamleader.
-https://lordferro.github.io/ApplicationNews/ - html, css, js - responsive layout (mobile, tablet, desctop), team project, work with NYT api.
-https://lordferro.github.io/test-task-tweets/ - created Using library React,Redux, RTK Query, styled components.
-https://lordferro.github.io/react-sandbox/ - my sandbox for mastering component approach in React.
+https://lordferro.github.io/web_studio/ - html, scss, css - adaptive layout. </br>
+https://lordferro.github.io/shopforgamers/ - html, css, scss - responsive layout (mobile, tablet, desctop), team project. My role - teamleader. </br>
+https://lordferro.github.io/ApplicationNews/ - html, css, js - responsive layout (mobile, tablet, desctop), team project, work with NYT api.</br>
+https://lordferro.github.io/test-task-tweets/ - created Using library React,Redux, RTK Query, styled components.</br>
+https://lordferro.github.io/react-sandbox/ - my sandbox for mastering component approach in React.</br>
 
 
 
