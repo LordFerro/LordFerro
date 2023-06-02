@@ -7,7 +7,8 @@ Hi there, I'm Fedor Romanovschi 👋
 I'm a Full-Stack Web Developer 💻!
 </h2> 
 
-I love the entire process of developing creative websites. I love the challenge of finding best solution. 
+I love the entire process of developing creative websites. I love the challenge of finding best solution. </br>
+For now there is now big, completed projects, this GitHub page is my memory map, everything you find here - I understand and ready to use in real projects.
 
 ### 🤝 Connect with me:
 
