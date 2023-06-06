@@ -26,6 +26,7 @@ For now there is no big, completed projects. This GitHub page is my memory map, 
 - Express
 - Node.JS 
 - MongoDB 
+- Mongoose
 
 ## 💼 Technical Skills
 
