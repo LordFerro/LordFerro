@@ -61,6 +61,6 @@ https://lordferro.github.io/react-sandbox/ - my sandbox for mastering component 
 
 
 </br>
-[![github stats](https://github-readme-stats.vercel.app/api?username=lordferro)](https://github.com/lordferro)
+[![Fedor's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lordferro&layout=compact)](https://github.com/lordferro)
