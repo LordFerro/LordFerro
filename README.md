@@ -24,7 +24,8 @@ For now there is no big, completed projects. This GitHub page is my memory map, 
 
 - 📱 React Native
 - Express
-- Node.JS  
+- Node.JS 
+- MongoDB 
 
 ## 💼 Technical Skills
 
