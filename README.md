@@ -50,9 +50,9 @@ For now there is no big, completed projects. This GitHub page is my memory map, 
 ![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=NPM&color=CB3837)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
 
+
 </br>
-I have basic understanding of:
-</br>
+
 [![Tools - WebSockets](https://img.shields.io/static/v1?label=Tools&message=WebSockets&color=2ea44f)](https://socket.io/)
 
 </br>
