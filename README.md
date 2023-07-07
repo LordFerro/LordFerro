@@ -49,13 +49,17 @@ For now there is no big, completed projects. This GitHub page is my memory map, 
 ![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=Figma&color=F24E1E)
 ![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=NPM&color=CB3837)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
+
+</br>
+I have basic understanding of:
 [![Tools - Websocket](https://img.shields.io/static/v1?label=Tools&message=Websocket&color=2ea44f)](https://socket.io/)
+
 </br>
 ## Here is examples of my code style:
 
 https://lordferro.github.io/web_studio/ - html, scss, css - adaptive layout. </br>
-https://lordferro.github.io/shopforgamers/ - html, css, scss - responsive layout (mobile, tablet, desctop), team project. My role - teamleader. </br>
-https://lordferro.github.io/ApplicationNews/ - html, css, js - responsive layout (mobile, tablet, desctop), team project, work with NYT api.</br>
+https://lordferro.github.io/shopforgamers/ - html, css, scss - responsive layout (mobile, tablet, desktop), team project. My role - teamleader. </br>
+https://lordferro.github.io/ApplicationNews/ - html, css, js - responsive layout (mobile, tablet, desktop), team project, work with NYT api.</br>
 https://lordferro.github.io/test-task-tweets/ - created Using library React,Redux, RTK Query, styled components.</br>
 https://lordferro.github.io/react-sandbox/ - my sandbox for mastering component approach in React.</br>
 
