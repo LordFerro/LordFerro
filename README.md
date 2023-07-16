@@ -60,6 +60,7 @@ https://lordferro.github.io/shopforgamers/ - html, css, scss - responsive layout
 https://lordferro.github.io/ApplicationNews/ - html, css, js - responsive layout (mobile, tablet, desktop), team project, work with NYT api.</br>
 https://lordferro.github.io/test-task-tweets/ - created Using library React,Redux, RTK Query, styled components.</br>
 https://lordferro.github.io/react-sandbox/ - my sandbox for mastering component approach in React.</br>
+https://lordferro.github.io/airo/ - small test task (description in ReadMe https://github.com/lordferro/airo/tree/master)</br>
 
 
 
