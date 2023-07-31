@@ -51,6 +51,8 @@ For now there is no big, completed projects. This GitHub page is my memory map, 
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
 [![Tools - WebSockets](https://img.shields.io/static/v1?label=Tools&message=WebSockets&color=2ea44f)](https://socket.io/)
 [![Tools - Docker](https://img.shields.io/static/v1?label=Tools&message=Docker&color=blue&logo=Docker)](https://docker.com/)
+[![Tools - Swagger](https://img.shields.io/badge/Tools-Swagger-2ea44f?logo=Swagger)](https://swagger.io/)
+
 
 </br>
 ## Here is examples of my code style:
