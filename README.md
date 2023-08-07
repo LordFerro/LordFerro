@@ -56,7 +56,7 @@ For now there is no big, completed projects. This GitHub page is my memory map, 
 
 </br>
 ## Here is examples of my code style:</br>
-https://github.com/artyomakulov/yourPet - team project, html, css, js - responsive layout (mobile, tablet, desktop) </br>
+https://github.com/artyomakulov/yourPet - team project, html, css, js - responsive layout (mobile, tablet, desktop) - live page - https://artyomakulov.github.io/yourPet/ </br>
 https://github.com/lordferro/your-pets-backend - RESTfull API for Your Pet project: EXPRESS, database: MongoDB, here is swagger documentation: https://your-pets-backend.onrender.com/api-docs/ </br>
 
 https://lordferro.github.io/web_studio/ - html, scss, css - adaptive layout. </br>
