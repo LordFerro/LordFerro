@@ -21,7 +21,7 @@ For now there is no big, completed projects. This GitHub page is my memory map, 
 -Application for travel agency, using React Native.
 
 ## 🌱 I'm currently learning
-
+- PHP
 - 📱 React Native
 - Express
 - Node.JS 
